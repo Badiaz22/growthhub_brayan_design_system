@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import '../core/enums/brayan_text_variant.dart';
 import '../core/tokens/brayan_typography.dart';
 
 /// A text atom with predefined Brayan Design System typography styles.
@@ -52,20 +53,4 @@ class BrayanText extends StatelessWidget {
       BrayanTextVariant.link => BrayanTypography.link,
     };
   }
-}
-
-/// Available text style variants.
-enum BrayanTextVariant {
-  headingLarge,
-  headingMedium,
-  headingSmall,
-  sectionTitle,
-  bodyLarge,
-  bodyMedium,
-  bodySmall,
-  labelLarge,
-  labelMedium,
-  labelSmall,
-  price,
-  link,
 }

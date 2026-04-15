@@ -1,6 +1,10 @@
 /// Brayan Design System - A Flutter design system based on Atomic Design.
 library;
 
+// ── Enums ───────────────────────────────────────────────────────────────────
+export 'src/core/enums/brayan_text_variant.dart';
+export 'src/core/enums/brayan_button_variant.dart';
+
 // ── Tokens ──────────────────────────────────────────────────────────────────
 export 'src/core/tokens/brayan_colors.dart';
 export 'src/core/tokens/brayan_typography.dart';

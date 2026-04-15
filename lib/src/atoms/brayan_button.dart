@@ -1,11 +1,9 @@
 import 'package:flutter/material.dart';
+import '../core/enums/brayan_button_variant.dart';
 import '../core/tokens/brayan_colors.dart';
 import '../core/tokens/brayan_radius.dart';
 import '../core/tokens/brayan_spacing.dart';
 import '../core/tokens/brayan_typography.dart';
-
-/// Button variants for the Brayan Design System.
-enum BrayanButtonVariant { primary, secondary, ghost }
 
 /// A button atom following the Brayan Design System.
 ///
