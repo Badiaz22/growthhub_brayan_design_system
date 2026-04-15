@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:brayan_design_system/brayan_design_system.dart';
 import '../../widgets/showcase_scaffold.dart';
 import '../../sample_data.dart';
-import 'widgets/section_title.dart';
+import '../../widgets/section_title.dart';
 
 /// Showcase page for Organisms — complex, distinct sections of an interface.
 class OrganismsShowcasePage extends StatefulWidget {

@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:brayan_design_system/brayan_design_system.dart';
 import '../../widgets/showcase_scaffold.dart';
-import 'widgets/section_title.dart';
+import '../../widgets/section_title.dart';
 import 'widgets/badge_demo.dart';
 
 /// Showcase page for Atoms — the foundational building blocks.
